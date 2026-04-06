@@ -1,0 +1,11 @@
+.zig-cache/
+zig-out/
+.DS_Store
+*.md
+!README.md
+!LICENSE
+src/patches/*.orig
+*.log
+test_build.zig
+zig-out/
+tmp/
